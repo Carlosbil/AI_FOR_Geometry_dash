@@ -1,0 +1,12 @@
+transformers
+datasets
+panda
+numpy
+scikit-learn
+matplotlib
+tensorflow
+SentencePiece
+accelerate
+pyautogui
+pynput
+opencv-python
