@@ -1,6 +1,6 @@
 # Deep Q-Learning for Geometry Dash
 ---
-This project learn a CNN to play Geometry Dash using Q-Learning. 
+This project a CNN learn to play Geometry Dash using Q-Learning. 
 
 ## Requirements
 ---
