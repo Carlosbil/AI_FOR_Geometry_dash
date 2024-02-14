@@ -4,7 +4,7 @@ This project a CNN learn to play Geometry Dash using Q-Learning.
 
 ## Requirements
 ---
-Use the requirements.txt to install all the dependencies. You will also need to use an NVIDIA GPU, and CUDA, as it is necessary to process the information fast enough to decide in "real time".
+Use the requirements.txt to install all the dependencies. You will also need to use an NVIDIA GPU, and CUDA (as well as pytorh-cuda), as it is necessary to process the information fast enough to decide in "real time".
 
 ## Architecture
 ---
