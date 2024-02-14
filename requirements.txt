@@ -2,6 +2,7 @@ transformers
 datasets
 panda
 numpy
+seaborn
 scikit-learn
 matplotlib
 tensorflow
