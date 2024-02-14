@@ -13,4 +13,4 @@ This project consists of the following structures:
 - `Bounty`: analyzing the screenshot, decide if the character is still alive, or has crashed or terminated, so that it gives or subtracts points.
 - `CNN`: analyzing the screenshot, predict if jump or not.
 - `Policy`: using a e-greedy policy.
-- `Q-Learning`: during the training phase, the weights of the model will be updated based on the reward obtained, every 32 (configurable) screenshots or minibatches. 
+- `Q-Learning`: during the training phase, the weights of the model will be updated based on the reward obtained, every 32 (configurable) screenshots or minibatches. This involves using a replay buffer to store state transitions, which are then sampled in minibatches to update the network weights via backpropagation. The update frequency and size of the minibatches can be configured based on performance and computational constraints.
