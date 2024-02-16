@@ -5,7 +5,9 @@ numpy
 seaborn
 scikit-learn
 matplotlib
-tensorflow
+tensorflow==2.10.0
+keras-rl2
+gym
 SentencePiece
 accelerate
 pyautogui
