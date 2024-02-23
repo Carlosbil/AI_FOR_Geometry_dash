@@ -13,3 +13,5 @@ accelerate
 pyautogui
 pynput
 opencv-python
+ultralytics
+stable-baselines3[extra]
